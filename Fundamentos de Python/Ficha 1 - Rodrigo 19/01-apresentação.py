@@ -8,3 +8,5 @@ print("Olá Mundo!\n")
 print("Este é o meu primeiro programa na Linguagem Python")
 print("Apenas faz output de mensagens.\n")
 print("Programador: Rodrigo")
+#Finilização
+input("Prima ENTER para terminar")
