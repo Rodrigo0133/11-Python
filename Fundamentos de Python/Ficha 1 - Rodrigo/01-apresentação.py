@@ -15,3 +15,4 @@ print("Apenas faz output de mensagens.")
 
 #Finalização
 input("Prima ENTER para terminar...")
+
